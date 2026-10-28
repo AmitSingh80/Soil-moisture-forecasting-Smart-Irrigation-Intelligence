@@ -1,0 +1,3 @@
+Model,Nominal_Interval,Observed_Coverage,Mean_Width
+Gradient Boosting Quantile,0.8,0.7770800627943485,7.055272648900073
+XGBoost Quantile,0.8,0.7786499215070644,5.578192234039307
